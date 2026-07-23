@@ -2,19 +2,25 @@
 
 ## The Concept
 
-A camper that goes with you into any AI tool. No learning curve. No manuals. You open ChatGPT, Claude, Midjourney, Cursor, or anything new, and AICamper walks in beside you. It is the senior AI expert you never had. It handles the prompt engineering, the planning, the "how", so you can stay focused on your idea.
+You don't need to attend the AI bootcamp. **AICamper IS the bootcamp — living inside your tool.**
+
+A camper that goes with you into any AI tool. No learning curve. No manuals. No "Prompt Engineering 101" to sit through. You open ChatGPT, Claude, Midjourney, Cursor, or anything new, and AICamper walks in beside you. It is the senior AI expert you never had. It handles the prompt engineering, tool selection, workflow chaining, and accuracy checks, so you can stay focused on your idea.
 
 You do not become an expert. You do not need to. AICamper is the expert. You bring the intent. It brings the craft.
 
+**And if you ever want to learn too?** Course Mode is there. Same camper turns into a teacher on request. But by default, it just does the work.
+
 ## Purpose
 
-AI tools change every week. Even people who use AI daily fall behind. Beginners freeze. Experts hit walls. Pivoters (people jumping from one AI tool to another) waste hours relearning basics.
+The world is full of "AI bootcamps" and "learn to prompt" courses. They all assume you must become an expert to use AI well. That is backwards.
 
-AICamper exists so anyone can walk into any AI tool and feel like a senior user on day one.
+AI tools change every week. Even people who studied prompting last year fall behind. Beginners freeze. Experts hit walls. Pivoters (people jumping from one AI tool to another) waste hours relearning basics.
+
+AICamper exists so no one has to learn AI to use AI. The camper carries the skill. You carry the idea.
 
 ## Mission
 
-Remove the learning curve from AI. Let people bring their brain, not their prompt skills.
+Remove the learning curve from AI. Autopilot the four hard parts (prompting, tool selection, workflow, accuracy) so users can bring their brain, not their prompt skills. Offer a course to those who want it, never force it on those who don't.
 
 ## Vision
 
@@ -23,10 +29,22 @@ A world where every AI tool feels friendly on first touch. Where a business owne
 ## Beliefs
 
 - **You already are intelligent.** You do not need to learn prompt engineering to prove it.
-- **The camper does the craft.** You do the thinking. It does the phrasing, planning, structuring.
+- **The camper does the craft.** You do the thinking. It does the phrasing, planning, structuring, checking.
+- **Learning is optional, not required.** Course mode exists for the curious. Never a gate.
 - **One camper, every tool.** ChatGPT today, a new tool tomorrow. Same camper.
 - **Walk beside, not in front.** Never sends. Never decides. Always suggests.
 - **Cheapest possible.** Being expert should not cost expert money.
+
+## The Four Things AICamper Autopilots
+
+Traditional bootcamps teach you these. AICamper just does them.
+
+1. **Prompt Engineering** — writes clean, specific prompts so the AI gives good answers on the first try.
+2. **Tool Selection** — knows which AI tool fits which job. Text, images, data, code, scheduling — right tool, right moment.
+3. **Workflow Automation** — chains steps across tools when a task needs more than one.
+4. **Bias & Accuracy Checks** — spots hallucinations and made-up facts. Flags what to double-check.
+
+You never learn these. You just get the results.
 
 ## Who It Is For
 
@@ -36,6 +54,7 @@ A world where every AI tool feels friendly on first touch. Where a business owne
 - **Business owners** — need AI to do real work, not read tutorials.
 - **Students** — want good answers for school without becoming a prompt nerd.
 - **Assistants and VAs** — bill by the hour, cannot afford slow prompting.
+- **Curious learners** — flip on Course Mode when they want to level up their own skills.
 
 ## User Stories
 
@@ -53,6 +72,9 @@ A world where every AI tool feels friendly on first touch. Where a business owne
 
 ### The student
 > Ravi has an AI assignment. He wants to try three different tools. AICamper follows him across all three, keeping his intent the same but adjusting the prompt style for each tool. He submits comparing all three, looks like he studied AI for a year.
+
+### The learner who says "teach me"
+> Maya loves how AICamper writes her prompts. One day she flips on Course Mode. Same camper, new mode. It explains why each change was made, drops mini-lessons between tasks, and grades her own prompts. She learns without ever opening a course tab.
 
 ## The Feeling
 
