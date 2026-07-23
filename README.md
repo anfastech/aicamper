@@ -1,53 +1,63 @@
-# AI Learns AI — Project Idea
+# AICamper — Project Idea
 
 ## The Concept
 
-A friendly companion that lives on your screen and helps you talk to any AI tool. Not a teacher. Not a tutorial. A quiet partner who writes with you, thinks with you, and helps you get the answer you actually want, on the first try.
+A camper that goes with you into any AI tool. No learning curve. No manuals. You open ChatGPT, Claude, Midjourney, Cursor, or anything new, and AICamper walks in beside you. It is the senior AI expert you never had. It handles the prompt engineering, the planning, the "how", so you can stay focused on your idea.
 
-You already use ChatGPT, Claude, Midjourney, or something similar. You know it can do amazing things. But sometimes your words come out wrong and the AI gives you something useless. This companion fixes that gap. It sits beside you, watches your rough idea, and gently shapes it into a prompt that works.
+You do not become an expert. You do not need to. AICamper is the expert. You bring the intent. It brings the craft.
 
 ## Purpose
 
-Most people are new to AI. They freeze in front of a blank box. They type a short line. They get a bad answer. They give up.
+AI tools change every week. Even people who use AI daily fall behind. Beginners freeze. Experts hit walls. Pivoters (people jumping from one AI tool to another) waste hours relearning basics.
 
-AI Learns AI exists so nobody feels that friction again. It turns a scary blank box into a warm conversation with a friend who knows how AI thinks.
+AICamper exists so anyone can walk into any AI tool and feel like a senior user on day one.
 
 ## Mission
 
-Help every person, no matter their age or job, become fluent with AI without needing to learn "prompt engineering" as a skill.
+Remove the learning curve from AI. Let people bring their brain, not their prompt skills.
 
 ## Vision
 
-A world where using AI feels as natural as texting a friend. Where a student, a shop owner, and a coder all get world-class results from AI without months of practice. Where the barrier to AI is not knowledge, but curiosity.
+A world where every AI tool feels friendly on first touch. Where a business owner, a teenager, an artist, and an engineer can all pull big work out of AI without ever studying "how to prompt." Where the human stays human, and the tool stays a tool, with a camper standing between them making the trip smooth.
 
 ## Beliefs
 
-- **You are the driver.** The companion never sends anything for you. You stay in charge.
-- **Small help, big result.** One good sentence can change a whole day's work.
-- **Everyone deserves a smart friend.** Not just people who can afford one.
-- **Quiet by default.** No pop-ups. No noise. Shows up only when you want it.
+- **You already are intelligent.** You do not need to learn prompt engineering to prove it.
+- **The camper does the craft.** You do the thinking. It does the phrasing, planning, structuring.
+- **One camper, every tool.** ChatGPT today, a new tool tomorrow. Same camper.
+- **Walk beside, not in front.** Never sends. Never decides. Always suggests.
+- **Cheapest possible.** Being expert should not cost expert money.
+
+## Who It Is For
+
+- **Beginners** — never touched an AI tool. Camper makes the first hour feel like the hundredth.
+- **Experts** — already good with one tool. Camper unlocks the next five.
+- **Pivoters** — moving from ChatGPT to Claude, or from Midjourney to a new image tool. Camper carries the fluency across.
+- **Business owners** — need AI to do real work, not read tutorials.
+- **Students** — want good answers for school without becoming a prompt nerd.
+- **Assistants and VAs** — bill by the hour, cannot afford slow prompting.
 
 ## User Stories
 
+### The pivoter
+> Sam has used ChatGPT for two years. His company just switched to Claude. His old prompts do not work the same. He opens Claude, AICamper appears, quietly rewrites his rough words in Claude's style. First reply is better than his best ChatGPT reply. He does not read a single doc.
+
+### The beginner
+> Priya is 15. She opens Midjourney for the first time. Blank box. She types "cool poster for my school event." AICamper hands her a shaped prompt with style, mood, colors, and aspect ratio. She hits send. She gets a poster she is proud of.
+
+### The business owner
+> Karim runs a small consulting firm. He needs a client proposal. He opens Claude and types three sentences. AICamper turns it into a structured prompt with tone, sections, and success criteria. Draft comes back near-ready. Karim ships it before lunch.
+
+### The expert who wants more
+> Elena is a designer who lives in Figma AI. She just got access to a new video AI tool. She has no time to learn it. AICamper steps in, planning her shots, phrasing her prompts, and walking her through the tool. Within an hour, she has a video reel.
+
 ### The student
-> Aisha is 16. She has an essay due tomorrow. She opens ChatGPT and types "help me write about climate change." The companion appears with a softer prompt that adds her grade level, essay length, and the angle her teacher likes. She hits accept. She gets a first draft she can actually build on.
+> Ravi has an AI assignment. He wants to try three different tools. AICamper follows him across all three, keeping his intent the same but adjusting the prompt style for each tool. He submits comparing all three, looks like he studied AI for a year.
 
-### The shop owner
-> Ravi runs a small bakery. He wants an Instagram post for his new cake. He opens an AI image tool and types "cake pic." The companion suggests style, mood, lighting, and background. Ravi accepts. He gets a photo good enough to post that same afternoon.
+## The Feeling
 
-### The virtual assistant
-> Mei works from home managing three clients. She writes cold emails all day. She uses the companion so every prompt she sends carries her client's voice, tone, and audience details. Her drafts need fewer edits. She finishes early.
+You open a new AI tool. Normally, you would feel lost. This time, a camper walks in with you. Warm. Quiet. Already knows the terrain. You bring your idea. The camper hands you the right words. The tool gives you the right result.
 
-### The developer
-> Jordan uses Cursor to build a side project. He asks the AI to "fix this bug." The companion adds the file context, what he tried before, and what "fixed" should look like. The AI gets it right the first time. Jordan keeps flow.
+You do not learn the tool. You use it.
 
-### The curious beginner
-> Grandma Nora heard about AI from her grandkids. She wants to try it. She opens Claude and types "tell me something." The companion whispers a suggestion: "ask about something you have always wondered." She smiles, types her question, and gets an answer that delights her.
-
-## The Feeling We Want
-
-You open your laptop. You have a rough idea. You do not know how to say it. Then, next to your cursor, a small friend appears. Not loud. Not pushy. Just there. It hands you the right words. You send them. You get what you needed.
-
-You close the laptop. You feel smart. You feel capable. You feel like AI is finally on your side.
-
-That is AI Learns AI.
+That is AICamper.
